@@ -1,2 +1,1 @@
-# OSSU
 codes during lectures
